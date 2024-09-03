@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Code Sancus**
 
-- I am looking for fullstack as well as backend development roles [reach me](atreya7703@gmail.com)
+- I am looking for fullstack as well as backend development roles [reach me](mailto:atreya7703@gmail.com)
 
 
 
